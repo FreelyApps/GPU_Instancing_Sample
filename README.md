@@ -1,1 +1,2 @@
 # GPU_Instancing_Sample
+UnityのGPUインスタンシングを試したサンプルプロジェクトです。
